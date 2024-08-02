@@ -6,6 +6,9 @@
 
 #define WAIT std::cin.get();
 
-int main(){
-    WAIT;
-}
+//int main(){
+//    WAIT;
+//
+//    auto a = 10; // auto 自动类型推导
+//    std::cout << a << std::endl;
+//}

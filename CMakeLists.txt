@@ -18,4 +18,5 @@ add_executable(study class/enum.cpp
         standardlib/vector.cpp
         basic/template.cpp
         basic/macro.cpp
+        deeper/thread.cpp
 )
