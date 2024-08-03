@@ -19,4 +19,5 @@ add_executable(study class/enum.cpp
         basic/template.cpp
         basic/macro.cpp
         deeper/thread.cpp
+        deeper/sort.cpp
 )
